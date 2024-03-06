@@ -1,0 +1,15 @@
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\bin\Debug\net7.0\exFibo.exe
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\bin\Debug\net7.0\exFibo.deps.json
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\bin\Debug\net7.0\exFibo.runtimeconfig.json
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\bin\Debug\net7.0\exFibo.dll
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\bin\Debug\net7.0\exFibo.pdb
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\obj\Debug\net7.0\exFibo.csproj.AssemblyReference.cache
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\obj\Debug\net7.0\exFibo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\obj\Debug\net7.0\exFibo.AssemblyInfoInputs.cache
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\obj\Debug\net7.0\exFibo.AssemblyInfo.cs
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\obj\Debug\net7.0\exFibo.csproj.CoreCompileInputs.cache
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\obj\Debug\net7.0\exFibo.dll
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\obj\Debug\net7.0\refint\exFibo.dll
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\obj\Debug\net7.0\exFibo.pdb
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\obj\Debug\net7.0\exFibo.genruntimeconfig.cache
+D:\Processo Seletivo\Target\exFibonacci\exFibo\exFibo\obj\Debug\net7.0\ref\exFibo.dll
